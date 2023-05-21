@@ -1,6 +1,15 @@
 {
     "name":"Emby Icons", 
     "icons":[
-        {"name":"JMS", "url":""}
+        {"name":"JMS", "url":"https://raw.githubusercontent.com/BigBigBigBigBigDevil/EmbyIcon/main/icons/JMS.png"},
+        {"name":"ZDZ", "url":"https://raw.githubusercontent.com/BigBigBigBigBigDevil/EmbyIcon/main/icons/ZDZ.png"},
+        {"name":"ALiYun", "url":"https://raw.githubusercontent.com/BigBigBigBigBigDevil/EmbyIcon/main/icons/ALiYun.png"},
+        {"name":"CaptainZ", "url":"https://raw.githubusercontent.com/BigBigBigBigBigDevil/EmbyIcon/main/icons/CaptainZ.png"},
+        {"name":"LOSER", "url":"https://raw.githubusercontent.com/BigBigBigBigBigDevil/EmbyIcon/main/icons/LOSER.png"},
+        {"name":"Misakaf", "url":"https://raw.githubusercontent.com/BigBigBigBigBigDevil/EmbyIcon/main/icons/Misakaf.png"},
+        {"name":"Misty", "url":"https://raw.githubusercontent.com/BigBigBigBigBigDevil/EmbyIcon/main/icons/Misty.png"},
+        {"name":"Nebula", "url":"https://raw.githubusercontent.com/BigBigBigBigBigDevil/EmbyIcon/main/icons/Nebula.png"},
+        {"name":"Peach", "url":"https://raw.githubusercontent.com/BigBigBigBigBigDevil/EmbyIcon/main/icons/Peach.png"},
+        {"name":"Tree", "url":"https://raw.githubusercontent.com/BigBigBigBigBigDevil/EmbyIcon/main/icons/Tree.png"}
     ]
 }

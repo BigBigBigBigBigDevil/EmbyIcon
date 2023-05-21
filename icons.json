@@ -1,6 +1,7 @@
 {
     "name":"Emby Icons", 
     "icons":[
+        {"name":"BGK", "url":"https://raw.githubusercontent.com/BigBigBigBigBigDevil/EmbyIcon/main/icons/Bgk.png"},
         {"name":"JMS", "url":"https://raw.githubusercontent.com/BigBigBigBigBigDevil/EmbyIcon/main/icons/JMS.png"},
         {"name":"ZDZ", "url":"https://raw.githubusercontent.com/BigBigBigBigBigDevil/EmbyIcon/main/icons/ZDZ.png"},
         {"name":"ALiYun", "url":"https://raw.githubusercontent.com/BigBigBigBigBigDevil/EmbyIcon/main/icons/ALiYun.png"},
